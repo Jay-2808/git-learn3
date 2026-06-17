@@ -1,1 +1,2 @@
 sample content for initial commit
+Content fromt the remote
